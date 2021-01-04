@@ -1,0 +1,38 @@
+body {
+  height: 100vh;
+  background-image: url("images/1.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color: #ecf0f1;
+}
+
+h1 {
+  color: #fff;
+}
+
+.clicked {
+  color: #7f8c8d;
+}
+
+.btn {
+  cursor: pointer;
+}
+
+.showing {
+  display: block;
+}
+
+.form,
+.greeting {
+  display: none;
+}
+
+.js-greeting {
+  color: #fff;
+  font-size: 20px;
+}
+
+.js-clock {
+  font-size: 20px;
+}
